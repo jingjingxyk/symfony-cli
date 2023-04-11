@@ -73,4 +73,6 @@ require (
 	software.sslmate.com/src/go-pkcs12 v0.2.0 // indirect
 )
 
+replace github.com/symfony-cli/phpstore v1.0.7 => github.com/jingjingxyk/phpstore v0.0.0-20230411143109-d6883324c60c
+
 go 1.20
